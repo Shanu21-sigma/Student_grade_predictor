@@ -32,11 +32,9 @@ This data science project explores how student habits—such as study hours, sle
 2. Open in Jupyter Notebook or Google Colab  
 3. Run each cell in order to see the results and charts
 
-## 📈 Example Visuals
 
-*(Add screenshots of graphs or plots here if needed)*
 
 ## 📬 Contact
 
 Created by **Shahana Suhaib**  
-Feel free to connect on [GitHub](https://github.com/YourGitHubUsername) or [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)
+Feel free to connect on [GitHub](https://github.com/Shanu21-sigma) or [LinkedIn](https://www.linkedin.com/in/YourLinkedInUsername)
